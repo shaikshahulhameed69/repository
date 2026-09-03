@@ -1,5 +1,6 @@
-username = "Shahul"
-password = "mypassword123"
+a = 10
+b = 20
 
-print(username)
-print(password)
+sum = a + b
+
+print("Sum =", sum)
